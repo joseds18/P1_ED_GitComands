@@ -6,3 +6,5 @@ git checkout -b agregar-potencia
 git checkout trunk
 git merge agregar-potencia
 git push origin trunk
+git tag v1.0
+git push origin v1.0

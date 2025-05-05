@@ -1,3 +1,3 @@
-git checkout -b agregar-potencia
-git checkout main
 git checkout -b agregar-multiplicacion
+git checkout trunk
+git merge agregar-raiz

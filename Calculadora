@@ -1,3 +1,4 @@
 git checkout -b agregar-potencia
 git checkout trunk
 git merge agregar-potencia
+git push origin trunk

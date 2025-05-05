@@ -2,4 +2,7 @@
 git checkout -b agregar-multiplicacion
 git checkout trunk
 git merge agregar-raiz
+git checkout -b agregar-potencia
+git checkout trunk
+git merge agregar-potencia
 git push origin trunk
